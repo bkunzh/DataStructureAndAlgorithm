@@ -1,2 +1,3 @@
-# DataStructureAndAlgorithm
-数据结构+算法
+# 小算法题
+1. 有1000瓶水，3个瓶子可以再换1瓶，一共可以喝多少瓶？
+> 见 Count1000Water
